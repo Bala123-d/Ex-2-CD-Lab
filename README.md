@@ -1,7 +1,7 @@
 # Ex-2-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
 ## NAME: D.BALA SUBRAMANYAM
 ## REG.NO: 212224040062
-## DATE: 20-09-25
+## DATE: 08-11-25
 # AIM
 ## To write a lex program to implement lexical analyzer to recognize a few patterns.
 # ALGORITHM
